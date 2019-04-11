@@ -1,0 +1,9 @@
+[submodule "themes/lektor-theme-simple-strap"]
+	path = themes/lektor-theme-simple-strap
+	url = git@github.com:Andrew-Shay/lektor-theme-simple-strap.git
+[submodule "themes/vex-hugo"]
+	path = themes/vex-hugo
+	url = git@github.com:themefisher/vex-hugo.git
+[submodule "themes/minimo"]
+	path = themes/minimo
+	url = https://github.com/MunifTanjim/minimo
