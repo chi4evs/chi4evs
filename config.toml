@@ -3,7 +3,7 @@ title = "Chicago for EVs"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
-theme = "minimo"
+theme = ["minimo"]
 
 disqusShortname = ""
 googleAnalytics = ""
@@ -47,7 +47,7 @@ hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = false
 showLastmod = true
 taxonomyCloudShuffle = true
-accentColor = "#ffcd00"
+accentColor = "#57bae4"
 hideMainMenu = false
 
 [params.sidebar]
@@ -64,11 +64,11 @@ footer = ["social_menu"]
 titleSeparator = "•"
 
 [params.social]
-email = "contact@example.com"
-facebook = "MunifTanjim"
-instagram = "MunifTanjim"
-twitter = "MunifTanjim"
-telegram = "MunifTanjim"
+email = "info@chicagoevs.org"
+# facebook = "MunifTanjim"
+# instagram = "MunifTanjim"
+# twitter = "MunifTanjim"
+# telegram = "MunifTanjim"
 
 [params.comments]
 enable = false
@@ -107,7 +107,13 @@ url = "/"
 name = "about"
 identifier = "about"
 url = "/about/"
+weight = 10
 
+[[menu.main]]
+name = "Mailing List"
+identifier = "mailing-list"
+url = "/mailing-list/"
+weight = 20
 
 [languages]
 # edit this block for your own language
