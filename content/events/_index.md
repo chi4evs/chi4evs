@@ -13,4 +13,4 @@ ride along with us -- the latter is sometimes called "getting butts in seats", a
 effective ways of convincing people to switch to electric. Once people appreciate the smooth and quiet drive with
 zippy acceleration, they understand why owners of EVs love their cars a little more than the average person.
 
-Here you can find reports from events in which we have taken part. 
+Here you can find reports from past events.
