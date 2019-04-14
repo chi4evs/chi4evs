@@ -1,1 +1,4 @@
-
+[recent_posts]
+title = "Latest Updates"
+length = 5
+excludeTypes = ["page"]

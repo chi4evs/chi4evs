@@ -1,8 +1,7 @@
 baseURL = "http://www.chicagoevs.org"
 title = "Chicago for EVs"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
-
+copyright = "" 
 theme = ["minimo"]
 
 disqusShortname = ""
@@ -114,6 +113,12 @@ name = "Mailing List"
 identifier = "mailing-list"
 url = "/mailing-list/"
 weight = 20
+
+[[menu.main]]
+name = "Past Events"
+identifier = "events"
+url = "/events/"
+weight = 30
 
 [languages]
 # edit this block for your own language
