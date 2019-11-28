@@ -109,12 +109,6 @@ url = "/about/"
 weight = 10
 
 [[menu.main]]
-name = "Mailing List"
-identifier = "mailing-list"
-url = "/mailing-list/"
-weight = 20
-
-[[menu.main]]
 name = "Past Events"
 identifier = "events"
 url = "/events/"
