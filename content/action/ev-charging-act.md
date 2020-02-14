@@ -1,12 +1,12 @@
 ---
-comments: false
-menu: main
+title: "Illinois Electric Vehicle Charging Act"
+date: 2020-02-13T22:02:52-06:00
+draft: false
 ---
 
 # Electric Vehicle Charging Act
 
 ![Fact sheet about the Electric Vehicle Charging Act][hb_4824_fact_sheet]
-
 
 ## Current status
 
@@ -32,7 +32,7 @@ Be sure to choose the Create Witness Slip icon. The icon is next to HB 4284, Ele
 Feel free to fill out the witness slip on behalf of yourself as individual. 
 Unless you represent an organization, your "title" or "firm" can be given as "none." 
 
-Youmay file written testimony if you want to share your personal story that shows why you think Illinois needs this Act. 
+You may file written testimony if you want to share your personal story that shows why you think Illinois needs this Act. 
 Otherwise, just choose only record of appearance, marking yourself as a proponent of the original bill.
 
-[hb_4824_fact_sheet]: /static/images/info/support_hb_4284.png
+[hb_4824_fact_sheet]: /images/info/support_hb_4284.png

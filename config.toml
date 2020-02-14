@@ -21,7 +21,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Promoting electric vehicles in the Chicago area"
+description = "Promoting electric vehicles in Chicago and Illinois"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -109,10 +109,16 @@ url = "/about/"
 weight = 10
 
 [[menu.main]]
+name = "Get Involved"
+identifier = "action"
+url = "/action/"
+weight = 30
+
+[[menu.main]]
 name = "Past Events"
 identifier = "events"
 url = "/events/"
-weight = 30
+weight = 40
 
 [languages]
 # edit this block for your own language
